@@ -20,4 +20,4 @@ porem adoro me aventurar no mundo back-end também.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ton-Chyod-s GitHub stats]([https://github-readme-stats.vercel.app/api?username=vinisdp&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true))  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisdp&show_icons=true&theme=dracula&include_all_commits=true)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
