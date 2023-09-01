@@ -13,5 +13,4 @@ porem adoro me aventurar no mundo back-end também.
 
 
 ## 🛠 Habilidades
-![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisdp&show_icons=true&theme=dracula) 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisdp&show_icons=true&theme=dracula)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
