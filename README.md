@@ -6,9 +6,8 @@ porem adoro me aventurar no mundo back-end também.
 
 
 
-## 🔗 Links
-[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.sdp/)
-[![facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)
+## 🔗 Contatos
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:923654vini@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-de-paula-45081a1a3/)
 
 
