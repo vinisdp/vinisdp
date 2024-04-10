@@ -30,4 +30,4 @@ porem adoro me aventurar no mundo back-end também.
 
 ## Status GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisdp&theme=dracula&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisdp&theme=highcontrast&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
