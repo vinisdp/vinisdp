@@ -30,4 +30,4 @@ porem adoro me aventurar no mundo back-end também.
 
 ## Status GitHub
 
-![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisdp&show_icons=true&theme=dracula&include_all_commits=true)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisdp&theme=dracula&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
