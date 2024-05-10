@@ -1,8 +1,7 @@
 
 # Vinicius Silva de Paula
 
-Olá meu nome é Vinicius Silva de Paula! sou Bacharel em Sistemas de Informação na UFMS - Campus de Três Lagoas gosto bastante de front-end 
-porem adoro me aventurar no mundo back-end também.
+Olá meu nome é Vinicius Silva de Paula! sou Bacharel em Sistemas de Informação na UFMS - Campus de Três Lagoas e Desenvolvedor FullStack na empresa Fuseon.
 
 
 
