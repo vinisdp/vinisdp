@@ -29,4 +29,6 @@ Olá! Meu nome é Vinicius Silva de Paula. Sou Bacharel em Sistemas de Informaç
 
 ## Status GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisdp&theme=highcontrast&show_icons=true)
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
