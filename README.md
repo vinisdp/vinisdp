@@ -21,6 +21,10 @@ Olá! Meu nome é Vinicius Silva de Paula. Sou Bacharel em Sistemas de Informaç
 ### S.O
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### 💾 Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Frameworks
 ![Angular](https://img.shields.io/badge/Angular-EA4335?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
