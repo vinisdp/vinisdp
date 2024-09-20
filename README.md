@@ -62,12 +62,16 @@ Olá! Meu nome é **Vinicius Silva de Paula**, sou Bacharel em **Sistemas de Inf
 ---
 
 ## 📊 **Status GitHub**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinisdp&theme=highcontrast&show_icons=true" alt="GitHub Stats" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=highcontrast" alt="Top Linguagens" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vinisdp&theme=highcontrast&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=highcontrast" alt="Top Linguagens" />
+      </a>
+    </td>
+  </tr>
+</table>
