@@ -1,6 +1,9 @@
-# **Vinicius Silva de Paula**
+# **🎓 Vinicius Silva de Paula**
 
-Olá! Meu nome é **Vinicius Silva de Paula**, sou Bacharel em **Sistemas de Informação** pela UFMS - Campus de Três Lagoas e **Desenvolvedor FullStack** na empresa Fuseon.
+
+💻 FullStack Developer | Mestrando em Ciência da Computação - Engenharia de Software
+
+Atualmente, sou desenvolvedor FullStack na Fuseon, com experiência em tecnologias como Angular e Java. Tenho graduação em Sistemas de Informação pela UFMS - Campus de Três Lagoas e estou cursando mestrado em Ciência da Computação, com ênfase em Engenharia de Software. Minhas habilidades incluem desenvolvimento de aplicações web, integração de serviços, manipulação de imagens e comunicação entre componentes, sempre buscando soluções dinâmicas e eficientes.
 
 ---
 
