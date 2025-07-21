@@ -60,8 +60,6 @@ Sempre buscando soluções dinâmicas, limpas e eficientes.
   </a>
 </div>
 
----
-
 ### 📚 Linguagens Mais Utilizadas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dark&show_icons=true&hide_border=true" alt="Top Linguagens" width="60%" style="border-radius: 10px;" />
