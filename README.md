@@ -1,74 +1,75 @@
-# **🎓 Vinicius Silva de Paula**
+# 🎓 **Vinicius Silva de Paula**
 
+💻 **Full Stack Developer na Spectral Solutions | Mestrando em Ciência da Computação - Engenharia de Software**
 
-💻 FullStack Developer | Mestrando em Ciência da Computação - Engenharia de Software
+Atualmente, atuo como desenvolvedor Full Stack na **Spectral Solutions**, com experiência em tecnologias como **Angular**, **.NET** e **Java**.  
+Graduado em **Sistemas de Informação** pela **UFMS - Campus Três Lagoas**, e atualmente cursando **Mestrado em Ciência da Computação** com ênfase em **Engenharia de Software**.
 
-Atualmente, sou desenvolvedor FullStack na Fuseon, com experiência em tecnologias como Angular e Java. Tenho graduação em Sistemas de Informação pela UFMS - Campus de Três Lagoas e estou cursando mestrado em Ciência da Computação, com ênfase em Engenharia de Software. Minhas habilidades incluem desenvolvimento de aplicações web, integração de serviços, manipulação de imagens e comunicação entre componentes, sempre buscando soluções dinâmicas e eficientes.
+Tenho experiência em:
+- Desenvolvimento Web, Desktop e Mobile.
+- Integração de serviços e APIs.
+- Manipulação de imagens e comunicação entre componentes.
+- Arquitetura orientada a microsserviços.
+
+Sempre buscando soluções dinâmicas, limpas e eficientes.
 
 ---
 
-## 🔗 **Contatos**
-<p align="left">
-  <a href="mailto:923654vini@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+## 🛠️ **Habilidades Técnicas**
+
+### 🖥️ **Linguagens**
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
+
+### ☁️ **Banco de Dados**
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></a>
+<a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" /></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
+
+### 🛠️ **Frameworks & Ferramentas**
+<a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" /></a>
+<a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="40" /></a>
+
+### 🔧 **DevOps & Ferramentas**
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /></a>
+<a href="https://azure.microsoft.com/en-us/services/devops/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /></a>
+
+---
+
+### 🔗 **Contatos**
+<div>
+  <a href="mailto:923654vini@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/vinicius-silva-de-paula-45081a1a3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
+</div>
+
+
+---
+
+## 📊 **GitHub Status**
+
+### 🚀 Minhas Contribuições e Nível
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vinisdp?cardType=level&theme=dark&preferLogin=false" alt="My Awesome Stats" width="60%" style="border-radius: 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-silva-de-paula-45081a1a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠 **Habilidades**
-
-### **Linguagens de Programação**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />       
-</p>
-
-
-### **Linguagens de Marcação**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-</p>
-
-### **Sistemas Operacionais**
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</p>
-
-### **Bancos de Dados**
-<p>
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-### **Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Angular-EA4335?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-</p>
+### 📚 Linguagens Mais Utilizadas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=dark&show_icons=true&hide_border=true" alt="Top Linguagens" width="60%" style="border-radius: 10px;" />
+</div>
 
 ---
 
-## 🚀 **Estou Estudando...**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
----
-
-## 📊 **Status GitHub**
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinisdp&theme=highcontrast&show_icons=true" alt="GitHub Stats" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisdp&layout=compact&theme=highcontrast" alt="Top Linguagens" style="width: 49%;">
+## 🧱 **Contribuições**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinisdp&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=0d1117" width="90%" />
 </div>
