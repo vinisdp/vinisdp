@@ -42,7 +42,7 @@ Sempre buscando soluções dinâmicas, limpas e eficientes.
 
 ---
 
-### 🔗 **Contatos**
+# 🔗 **Contatos**
 <div>
   <a href="mailto:923654vini@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/vinicius-silva-de-paula-45081a1a3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
